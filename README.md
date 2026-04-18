@@ -1,7 +1,7 @@
 # 📊 Dashboard E-commerce Olist (Brésil) - Analyse de la Performance
 
 ## 🚀 Lien vers le Dashboard Interactif
-[👉 Cliquer ici pour explorer le Dashboard en ligne](TON_LIEN_PUBLIC_ICI)
+[👉 Cliquer ici pour explorer le Dashboard en ligne](https://app.powerbi.com/groups/me/reports/5104cd1f-8213-4698-9802-840168348080/d6c65e106b19da980929?experience=power-bi)
 
 ## 📝 Présentation du Projet
 Analyse complète des données de la plateforme e-commerce brésilienne **Olist** (100k commandes). L'objectif est de fournir une vision 360° de la performance commerciale et logistique.
